@@ -1,4 +1,4 @@
-<img width="480" height="324" alt="Survival by gender" src="https://github.com/user-attachments/assets/6b41b00f-a57c-47f2-b38d-297c00999d2c" /># 🚢 Titanic Survival Prediction
+🚢 Titanic Survival Prediction
 
 ## 📌 Overview
 
@@ -56,7 +56,7 @@ Type: **Binary Classification**
 * Higher fare → higher survival probability
 
 ---
-
+<img width="480" height="324" alt="Survival by gender" src="https://github.com/user-attachments/assets/6b41b00f-a57c-47f2-b38d-297c00999d2c" /># 
 ## 🧹 Data Processing
 
 * Filled missing values (Age, Embarked)
@@ -64,7 +64,7 @@ Type: **Binary Classification**
 * Encoded categorical features
 * Optional scaling
 
----
+---<img width="480" height="324" alt="Survival by passenger class" src="https://github.com/user-attachments/assets/05ca4d8c-e17d-4db0-a68f-5075c3efac8a" />
 
 ## 🤖 Models Used
 
@@ -93,10 +93,9 @@ Data → Cleaning → EDA → Feature Engineering → Model → Evaluation → P
 
 
 
-<img width="480" height="324" alt="Survival by passenger class" src="https://github.com/user-attachments/assets/05ca4d8c-e17d-4db0-a68f-5075c3efac8a" />
 
 
-<img width="455" height="1352" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/ad0244b8-abef-46a9-b3a6-378a6009064c" />
+
 
 
 
@@ -111,7 +110,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
----
+---<img width="455" height="1352" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/ad0244b8-abef-46a9-b3a6-378a6009064c" />
 
 ## 🧪 Example
 
