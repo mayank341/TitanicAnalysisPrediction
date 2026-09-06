@@ -1,6 +1,6 @@
-🚢 Titanic Survival Prediction ::
-DataScienceproject_titanicdataanalysis
-🛳️ Titanic Survival Prediction - Data Science Project
+## 🚢 Titanic Survival Prediction ::
+
+
 This repository contains a Jupyter Notebook (_titanic.ipynb) for a classic machine learning and data science project based on the Titanic dataset. The goal is to predict passenger survival using various machine learning techniques.
 📁 Project Structure
 📊 Dataset Information
